@@ -1,0 +1,9 @@
+# Hidden files and folders
+.*/
+# Ignore build folder
+build/
+bin/
+cmake-build-*/
+# ignore library from other repo projects
+deps
+
